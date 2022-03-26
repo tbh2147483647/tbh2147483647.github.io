@@ -7,7 +7,8 @@
 
 ###### 馮氏鶏羹 [馮氏鶏羹.zip](https://github.com/tbh2147483647/tbh2147483647.github.io/files/8354527/default.zip)
 
-###### 追杀小游戏       [追杀.zip](https://github.com/tbh2147483647/tbh2147483647.github.io/files/8354548/default.zip)
+###### 追杀小游戏 [追杀.zip](https://github.com/tbh2147483647/tbh2147483647.github.io/files/8354548/default.zip)
 
+###### 双人枪战（PVP) [枪战.zip](https://github.com/tbh2147483647/tbh2147483647.github.io/files/8354550/default.zip)
 
-###### 双人枪战（PVP)
+###### 内鬼（高仿狼人杀）（双语） [Imposters.zip](https://github.com/tbh2147483647/tbh2147483647.github.io/files/8354556/Imposters.zip)
